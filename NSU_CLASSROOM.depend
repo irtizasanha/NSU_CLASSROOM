@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513688954 source:c:\users\irtiz\downloads\nsu_classroom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
